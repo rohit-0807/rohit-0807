@@ -16,7 +16,7 @@ I enjoy solving problems, learning new technologies, and creating meaningful pro
 
 - 🔭 Currently working on **MERN & AI-based projects**  
 - 🌱 Exploring **Backend Engineering, NLP, and Cloud**  
-- 🎯 Goal: Become a **Full-Stack / Backend Developer**  
+- 🎯 Goal: Become a **Full-Stack / Backend Developer / Java Developer**  
 - 🤝 Open to internships and collaboration  
 
 ---
