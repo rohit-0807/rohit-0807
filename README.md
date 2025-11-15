@@ -117,7 +117,7 @@ I enjoy solving problems, learning new technologies, and creating meaningful pro
 
 ## 🎨 Coding Vibes  
 <P align="center">
-<img width="1024" height="1024" alt="ChatGPT Image Nov 15, 2025, 08_12_59 PM" src="https://github.com/user-attachments/assets/a7264bf5-dd36-474c-91b9-4b87eb05ab99" />  
+<img  alt="ChatGPT Image Nov 15, 2025, 08_12_59 PM" src="https://github.com/user-attachments/assets/a7264bf5-dd36-474c-91b9-4b87eb05ab99" />  
 </P>
 
 
