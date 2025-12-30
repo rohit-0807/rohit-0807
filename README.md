@@ -61,11 +61,11 @@ I enjoy solving problems, learning new technologies, and creating meaningful pro
 
 ## 🚀 Featured Projects  
 
-### 🔹 **TechTalke – Community Communication Platform**  
+### 🔹 **Communiatec – Community Communication Platform**  
 **Stack:** MERN + Socket.io  
 - Real-time chat platform for institutes & organizations  
 - Integrated AI chatbot for enhanced communication  
-- 📌 GitHub: https://github.com/rohit-0807/Techtalke.git  
+- 📌 GitHub: https://github.com/rohit-0807/communiatec.git  
 
 ---
 
