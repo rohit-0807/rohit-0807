@@ -92,19 +92,7 @@ I enjoy solving problems, learning new technologies, and creating meaningful pro
 
 ---
 
-## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-0807&theme=react&border=61dafb&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-0807&show_icons=true&theme=react&hide_border=true&border_color=61dafb" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-0807&layout=compact&theme=react&hide_border=true" />
-</p>
 
 ---
 
